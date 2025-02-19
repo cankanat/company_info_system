@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain_openai
+langchain_community
+langsmith
+langgraph
+python-dotenv
+pydantic
+pydantic-settings
+requests
+pytest
+httpx
+python-multipart
+tavily-python
+wikipedia
+redis
+fakeredis
