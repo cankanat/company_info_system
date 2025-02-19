@@ -38,6 +38,8 @@ TAVILY_API_KEY=your_tavily_api_key
 # LangSmith (Optional)
 LANGSMITH_API_KEY=your_langsmith_api_key
 LANGSMITH_TRACING=true
+LANGSMITH_ENDPOINT="your_endpoint"
+LANGSMITH_PROJECT="your_project_name"
 
 # Redis Configuration
 REDIS_HOST=localhost
